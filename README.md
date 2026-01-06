@@ -48,7 +48,7 @@ The model achieves around **97–99% accuracy** on the test data.
    
 2. Navigate to the project folder  
    ```bash
-   cd HalkaSpamModel
+   cd project folder name
    
 3. Install the required libraries
   pip install pandas scikit-learn streamlit
